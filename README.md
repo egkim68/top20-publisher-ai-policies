@@ -1,6 +1,6 @@
 # Top 20 publishers and reviewer AI upload policies
 
-Supporting data for Table 1 of "Beyond manuscript upload prohibitions: Author consent and responsible AI assistance in peer review."
+Supporting data for Table 1 of “Should authors be able to consent to AI assistance in peer review?”
 
 ## Files
 
@@ -23,7 +23,7 @@ The script writes `reproduced_top_20.csv` and `selected_journals.csv` (the journ
 
 ## Policy classification
 
-Public reviewer guidance was collected on October 20, 2026; excerpts were rechecked on October 27, 2026. Pages may change, so excerpts are recorded with each source.
+Public reviewer guidance was collected and verified on October 27, 2026. These pages may change; thus, excerpts are provided for each source.
 
 * **No**: manuscript upload to AI tools prohibited.
 * **Conditional**: upload permitted under stated conditions.
