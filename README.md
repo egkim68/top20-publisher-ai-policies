@@ -21,6 +21,33 @@ python rank_publishers.py sjr2025.csv
 
 The script writes `reproduced_top_20.csv` and `selected_journals.csv` (the journals counted) and reports whether the ranking matches `top_20_publishers.csv`.
 
+### Grouping decisions
+
+SJR lists journals under imprint and legal-entity names. Each label was assigned to the publisher that owned it at the time of analysis, including recent acquisitions. Examples:
+
+* Elsevier: Cell Press, Academic Press, W.B. Saunders, Elsevier Masson.
+* Springer Nature: BioMed Central, Nature Research, Palgrave Macmillan, Adis.
+* Taylor & Francis: Routledge, Dove Medical Press, F1000, PeerJ, Maney.
+* Sage: Mary Ann Liebert, IOS Press.
+* De Gruyter Brill: Brill, Sciendo, Ubiquity Press, Vandenhoeck & Ruprecht.
+* Wolters Kluwer: Lippincott, Medknow.
+* Science Press: EDP Sciences.
+
+Labels with similar names but different owners were kept separate, such as Springer Publishing Company, Russell Sage Foundation, Cambridge Scientific Publishers and World Scientific and Engineering Academy and Society.
+
+Two publishers were counted separately from a larger partner:
+
+* KeAi (162 journals), a joint venture of China Science Publishing & Media and Elsevier.
+* Pleiades Publishing (141 journals), whose journals Springer Nature distributes under a partnership.
+
+Both publish under their own names. Merging either into its partner would remove it from the top 20 and add S. Karger AG (89 journals, rank 21). Thieme ranks 20th with 101 journals. Bentham Science and World Scientific tie at 120 journals.
+
+### Limitations
+
+* Journals with 2025 coverage but no publisher listed in SJR (696) were excluded.
+* Ranking by journal count favors publishers with many small journals over those with high article output. For example, Public Library of Science has 13 journals in the dataset.
+* Ownership reflects the analysis date. Later acquisitions may change the grouping.
+
 ## Policy classification
 
 Public reviewer guidance was collected on October 27, 2026 and last verified on November 26, 2026. These pages may change; thus, excerpts are provided for each source.
