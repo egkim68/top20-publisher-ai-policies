@@ -30,4 +30,4 @@ Public reviewer guidance was collected and verified on October 27, 2026. These p
 * **No policy**: no publisher-level rule identified; individual journals may differ. This does not mean permission.
 * **Not verified**: policy could not be accessed.
 
-An asterisk (*) marks limited scope, explained in the Note column.
+Markers a) and b) flag limited scope, as in Table 1: a) prohibition stated for one imprint only; b) prohibition stated for public AI platforms, without explicit permission for secure tools. Conditional is assigned only when the guidance explicitly permits upload under stated conditions.
