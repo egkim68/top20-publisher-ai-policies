@@ -23,7 +23,7 @@ The script writes `reproduced_top_20.csv` and `selected_journals.csv` (the journ
 
 ## Policy classification
 
-Public reviewer guidance was collected and verified on October 27, 2026. These pages may change; thus, excerpts are provided for each source.
+Public reviewer guidance was collected on October 27, 2026 and last verified on November 26, 2026. These pages may change; thus, excerpts are provided for each source.
 
 * **No**: manuscript upload to AI tools prohibited.
 * **Conditional**: upload permitted under stated conditions.
