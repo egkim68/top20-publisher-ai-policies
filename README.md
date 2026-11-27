@@ -28,6 +28,5 @@ Public reviewer guidance was collected from publisher websites. Excerpts and acc
 * **No**: manuscript upload to AI tools prohibited.
 * **Conditional**: upload explicitly permitted under stated conditions.
 * **No policy**: no publisher-level rule identified. This does not mean permission.
-* **Not verified**: policy could not be accessed.
 
 Markers a) and b) flag limited scope, as in Table 1: a) one imprint only; b) public AI platforms only.
