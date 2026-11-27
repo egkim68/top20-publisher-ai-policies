@@ -7,7 +7,7 @@ Supporting data for Table 1 of “Should authors be able to consent to AI assist
 * `rank_publishers.py`: selects the 20 largest publisher groups (Python 3, standard library).
 * `publisher_alias_mapping.csv`: assigns each SJR publisher label to a publisher group.
 * `top_20_publishers.csv`: ranking and journal counts.
-* `policy_evidence.csv`: classification, supporting excerpt and source for each publisher.
+* `policy_evidence.csv`: classification, verbatim excerpt, source, note and access date for each publisher.
 
 ## Publisher selection
 
@@ -23,7 +23,7 @@ The script reports whether the result matches `top_20_publishers.csv`.
 
 ## Policy classification
 
-Public reviewer guidance was collected on October 27, 2026 and last verified on November 26, 2026. Excerpts are recorded with each source because pages may change.
+Public reviewer guidance was collected from publisher websites. Excerpts and access dates are recorded with each source because pages may change.
 
 * **No**: manuscript upload to AI tools prohibited.
 * **Conditional**: upload explicitly permitted under stated conditions.
